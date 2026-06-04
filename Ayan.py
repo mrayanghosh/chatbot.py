@@ -1,7 +1,7 @@
 from groq import Groq
 import os
 
-client = Groq(api_key="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")
+client = Groq(api_key="your api key")
 
 print("Groq Chatbot (type 'exit' to quit)\n")
 
